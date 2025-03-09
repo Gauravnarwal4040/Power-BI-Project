@@ -1,58 +1,58 @@
-## Dairy Product Sales Power BI Project
+# Dairy Product Sales Power BI Project
 
-📌 Project Overview
+### 📌 Project Overview
 
 This Power BI project analyzes sales data for a dairy product business. The dashboard provides insights into sales trends, customer behavior, and regional performance to help drive business decisions.
 
-📊 Key Features
+### 📊 Key Features
 
-Sales Analysis: Track total revenue, units sold, and profit margins.
+- Sales Analysis: Track total revenue, units sold, and profit margins.
 
-Customer Insights: Identify top customers and purchasing patterns.
+- Customer Insights: Identify top customers and purchasing patterns.
 
-Regional Performance: Compare sales performance across different regions.
+- Regional Performance: Compare sales performance across different regions.
 
-Product Performance: Analyze best-selling products and revenue contribution.
+- Product Performance: Analyze best-selling products and revenue contribution.
 
-Interactive Visuals: Filter data by date, product, and region for dynamic reporting.
+- Interactive Visuals: Filter data by date, product, and region for dynamic reporting.
 
-📁 Dataset
+### 💁️ Dataset
 
 The project uses structured sales data containing:
 
-Sales Transactions: Date, customer, product, quantity, revenue.
+- Sales Transactions: Date, customer, product, quantity, revenue.
 
-Customer Information: Customer ID, name, region.
+- Customer Information: Customer ID, name, region.
 
-Product Details: Product ID, name, category, price.
+- Product Details: Product ID, name, category, price.
 
-🔧 Tools & Technologies
+### 🔧 Tools & Technologies
 
-Power BI: For creating interactive dashboards.
+- Power BI: For creating interactive dashboards.
 
-SQL / Excel: Data processing and transformation.
+- SQL / Excel: Data processing and transformation.
 
-DAX (Data Analysis Expressions): Used for advanced calculations and KPIs.
+- DAX (Data Analysis Expressions): Used for advanced calculations and KPIs.
 
-🚀 How to Use
+### 🚀 How to Use
 
-Open the PBIX File: Load Dairy Product Project.pbix in Power BI Desktop.
+- Open the PBIX File: Load Dairy Product Project.pbix in Power BI Desktop.
 
-Connect Data Sources: Ensure data connections are set up correctly.
+- Connect Data Sources: Ensure data connections are set up correctly.
 
-Explore Dashboards: Interact with the visuals to analyze different metrics.
+- Explore Dashboards: Interact with the visuals to analyze different metrics.
 
-Customize & Extend: Modify filters, add new insights, or integrate additional data sources.
+- Customize & Extend: Modify filters, add new insights, or integrate additional data sources.
 
-📢 Future Enhancements
+### 📢 Future Enhancements
 
-Adding predictive analytics for sales forecasting.
+- Adding predictive analytics for sales forecasting.
 
-Enhancing customer segmentation using machine learning models.
+- Enhancing customer segmentation using machine learning models.
 
-Integrating external market data for competitive analysis.
+- Integrating external market data for competitive analysis.
 
-💡 Contribution
+### 💡 Contribution
 
 Feel free to contribute by submitting pull requests, reporting issues, or suggesting improvements.
 
