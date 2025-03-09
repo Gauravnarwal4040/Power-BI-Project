@@ -44,6 +44,11 @@ The project uses structured sales data containing:
 
 - Customize & Extend: Modify filters, add new insights, or integrate additional data sources.
 
+### Dashboard
+
+![Screenshot 2025-03-10 004310](https://github.com/user-attachments/assets/63bba914-64fc-44da-96d5-baa7dc39e2bb)
+
+
 ### 📢 Future Enhancements
 
 - Adding predictive analytics for sales forecasting.
@@ -55,4 +60,5 @@ The project uses structured sales data containing:
 ### 💡 Contribution
 
 Feel free to contribute by submitting pull requests, reporting issues, or suggesting improvements.
+
 
