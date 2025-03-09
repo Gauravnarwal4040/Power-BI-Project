@@ -1,4 +1,4 @@
-Dairy Product Sales Power BI Project
+## Dairy Product Sales Power BI Project
 
 📌 Project Overview
 
