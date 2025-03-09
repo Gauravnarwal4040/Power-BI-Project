@@ -1,0 +1,631 @@
+CustomerID,CustomerName,City,Gender,MaritalStatus,Phone,PhoneBrand,OperatingSystem
+C0001,Aarav Sharma Singh,Udaipur,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0002,Aarav Sharma Sharma,Ahmedabad,Male,Married,iPhone 14,Unknown,iOS
+C0003,Aarav Sharma Rao,Haora,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0004,Aarav Sharma Nair,Shimla,Male,Single,OnePlus 11,Unknown,Android
+C0005,Vivaan Patel Singh,Guwahati,Male,Married,Xiaomi 13,Unknown,Android
+C0006,Vivaan Patel Sharma,Shillong,Male,Married,Google Pixel 7,Unknown,Android
+C0007,Vivaan Patel Rao,Nashik,Male,Single,Oppo Find X6,Unknown,Android
+C0008,Vivaan Patel Nair,Nashik,Male,Single,Vivo X90,Unknown,Android
+C0009,Aditya Verma Singh,Noida,Male,Single,iPhone SE,Unknown,iOS
+C0010,Aditya Verma Sharma,Rajkot,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0011,Aditya Verma Rao,Thiruvananthapuram,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0012,Aditya Verma Nair,Bhubaneswar,Male,Married,iPhone 14,Unknown,iOS
+C0013,Vihaan Singh Singh,Bhubaneswar,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0014,Vihaan Singh Sharma,Gangtok,Male,Single,OnePlus 11,Unknown,Android
+C0015,Vihaan Singh Rao,Kohima,Male,Single,Xiaomi 13,Unknown,Android
+C0016,Vihaan Singh Nair,Hyderabad,Male,Married,Google Pixel 7,Unknown,Android
+C0017,Arjun Kapoor Singh,Aurangabad,Male,Single,Oppo Find X6,Unknown,Android
+C0018,Arjun Kapoor Sharma,Madurai,Male,Single,Vivo X90,Unknown,Android
+C0019,Arjun Kapoor Rao,Noida,Male,Single,iPhone SE,Unknown,iOS
+C0020,Arjun Kapoor Nair,Chennai,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0021,Sai Iyer Singh,Vijayawada,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0022,Sai Iyer Sharma,Jabalpur,Male,Married,iPhone 14,Unknown,iOS
+C0023,Sai Iyer Rao,Imphal,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0024,Sai Iyer Nair,Kolkata,Male,Single,OnePlus 11,Unknown,Android
+C0025,Reyansh Mehta Singh,Madurai,Male,Married,Xiaomi 13,Unknown,Android
+C0026,Reyansh Mehta Sharma,Gangtok,Male,Married,Google Pixel 7,Unknown,Android
+C0027,Reyansh Mehta Rao,Pune,Male,Married,Oppo Find X6,Unknown,Android
+C0028,Reyansh Mehta Nair,Lucknow,Male,Married,Vivo X90,Unknown,Android
+C0029,Krishna Kumar Singh,Jabalpur,Male,Married,iPhone SE,Unknown,iOS
+C0030,Krishna Kumar Sharma,Allahabad,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0031,Krishna Kumar Rao,Nagpur,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0032,Krishna Kumar Nair,Imphal,Male,Single,iPhone 14,Unknown,iOS
+C0033,Ishaan Reddy Singh,Kota,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0034,Ishaan Reddy Sharma,Aurangabad,Male,Married,OnePlus 11,Unknown,Android
+C0035,Ishaan Reddy Rao,Dhanbad,Male,Married,Xiaomi 13,Unknown,Android
+C0036,Ishaan Reddy Nair,Patna,Male,Single,Google Pixel 7,Unknown,Android
+C0037,Shaurya Rao Singh,Aizawl,Male,Single,Oppo Find X6,Unknown,Android
+C0038,Shaurya Rao Sharma,Surat,Male,Married,Vivo X90,Unknown,Android
+C0039,Shaurya Rao Rao,Aurangabad,Male,Single,iPhone SE,Unknown,iOS
+C0040,Shaurya Rao Nair,Agartala,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0041,Ayaan Bhat Singh,Ranchi,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0042,Ayaan Bhat Sharma,Amritsar,Male,Single,iPhone 14,Unknown,iOS
+C0043,Ayaan Bhat Rao,Panaji,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0044,Ayaan Bhat Nair,Panaji,Male,Single,OnePlus 11,Unknown,Android
+C0045,Arya Joshi Singh,Rajkot,Male,Single,Xiaomi 13,Unknown,Android
+C0046,Arya Joshi Sharma,Surat,Male,Married,Google Pixel 7,Unknown,Android
+C0047,Arya Joshi Rao,Panaji,Male,Married,Oppo Find X6,Unknown,Android
+C0048,Arya Joshi Nair,Agartala,Male,Single,Vivo X90,Unknown,Android
+C0049,Anaya Chopra Singh,Varanasi,Female,Married,iPhone SE,Unknown,iOS
+C0050,Anaya Chopra Sharma,Ludhiana,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0051,Anaya Chopra Rao,Allahabad,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0052,Anaya Chopra Nair,Jaipur,Female,Married,iPhone 14,Unknown,iOS
+C0053,Diya Nair Singh,Srinagar,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0054,Diya Nair Sharma,Pune,Female,Married,OnePlus 11,Unknown,Android
+C0055,Diya Nair Rao,Coimbatore,Female,Single,Xiaomi 13,Unknown,Android
+C0056,Diya Nair Nair,Faridabad,Female,Married,Google Pixel 7,Unknown,Android
+C0057,Kiara Khanna Singh,Faridabad,Female,Married,Oppo Find X6,Unknown,Android
+C0058,Kiara Khanna Sharma,Srinagar,Female,Single,Vivo X90,Unknown,Android
+C0059,Kiara Khanna Rao,Mangalore,Female,Married,iPhone SE,Unknown,iOS
+C0060,Kiara Khanna Nair,Meerut,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0061,Isha Sharma Singh,Gangtok,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0062,Isha Sharma Sharma,Nagpur,Female,Single,iPhone 14,Unknown,iOS
+C0063,Isha Sharma Rao,Gwalior,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0064,Isha Sharma Nair,Jodhpur,Female,Single,OnePlus 11,Unknown,Android
+C0065,Aarohi Bansal Singh,Gwalior,Female,Single,Xiaomi 13,Unknown,Android
+C0066,Aarohi Bansal Sharma,Kota,Female,Married,Google Pixel 7,Unknown,Android
+C0067,Aarohi Bansal Rao,Indore,Female,Single,Oppo Find X6,Unknown,Android
+C0068,Aarohi Bansal Nair,Faridabad,Female,Single,Vivo X90,Unknown,Android
+C0069,Avni Kaur Singh,Vijayawada,Female,Single,iPhone SE,Unknown,iOS
+C0070,Avni Kaur Sharma,Gwalior,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0071,Avni Kaur Rao,Madurai,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0072,Avni Kaur Nair,Vadodara,Female,Single,iPhone 14,Unknown,iOS
+C0073,Mira Agrawal Singh,Ahmedabad,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0074,Mira Agrawal Sharma,Agra,Female,Married,OnePlus 11,Unknown,Android
+C0075,Mira Agrawal Rao,Vadodara,Female,Single,Xiaomi 13,Unknown,Android
+C0076,Mira Agrawal Nair,Madurai,Female,Single,Google Pixel 7,Unknown,Android
+C0077,Saanvi Desai Singh,Chennai,Female,Married,Oppo Find X6,Unknown,Android
+C0078,Saanvi Desai Sharma,Coimbatore,Female,Single,Vivo X90,Unknown,Android
+C0079,Saanvi Desai Rao,Raipur,Female,Single,iPhone SE,Unknown,iOS
+C0080,Saanvi Desai Nair,Mangalore,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0081,Riya Malhotra Singh,Gwalior,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0082,Riya Malhotra Sharma,Bangalore,Female,Single,iPhone 14,Unknown,iOS
+C0083,Riya Malhotra Rao,Rajkot,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0084,Riya Malhotra Nair,Gangtok,Female,Married,OnePlus 11,Unknown,Android
+C0085,Priya Shetty Singh,Haora,Female,Married,Xiaomi 13,Unknown,Android
+C0086,Priya Shetty Sharma,Aizawl,Female,Single,Google Pixel 7,Unknown,Android
+C0087,Priya Shetty Rao,Agartala,Female,Single,Oppo Find X6,Unknown,Android
+C0088,Priya Shetty Nair,Chandigarh,Female,Married,Vivo X90,Unknown,Android
+C0089,Meera Thakur Singh,Ludhiana,Female,Single,iPhone SE,Unknown,iOS
+C0090,Meera Thakur Sharma,Nagpur,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0091,Meera Thakur Rao,Mumbai,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0092,Meera Thakur Nair,Mangalore,Female,Married,iPhone 14,Unknown,iOS
+C0093,Naina Yadav Singh,Bhubaneswar,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0094,Naina Yadav Sharma,Chennai,Female,Single,OnePlus 11,Unknown,Android
+C0095,Naina Yadav Rao,Madurai,Female,Single,Xiaomi 13,Unknown,Android
+C0096,Naina Yadav Nair,Mumbai,Female,Married,Google Pixel 7,Unknown,Android
+C0097,Suhana Shah Singh,Bangalore,Female,Single,Oppo Find X6,Unknown,Android
+C0098,Suhana Shah Sharma,Ghaziabad,Female,Single,Vivo X90,Unknown,Android
+C0099,Suhana Shah Rao,Surat,Female,Single,iPhone SE,Unknown,iOS
+C0100,Suhana Shah Nair,Madurai,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0101,Pari Saxena Singh,Gwalior,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0102,Pari Saxena Sharma,Dhanbad,Female,Single,iPhone 14,Unknown,iOS
+C0103,Pari Saxena Rao,Shimla,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0104,Pari Saxena Nair,Meerut,Female,Married,OnePlus 11,Unknown,Android
+C0105,Aanya Singh Singh,Kohima,Female,Single,Xiaomi 13,Unknown,Android
+C0106,Aanya Singh Sharma,Vijayawada,Female,Married,Google Pixel 7,Unknown,Android
+C0107,Aanya Singh Rao,Bhopal,Female,Married,Oppo Find X6,Unknown,Android
+C0108,Aanya Singh Nair,Agra,Female,Married,Vivo X90,Unknown,Android
+C0109,Navya Jain Singh,Raipur,Female,Single,iPhone SE,Unknown,iOS
+C0110,Navya Jain Sharma,Kolkata,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0111,Navya Jain Rao,Thiruvananthapuram,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0112,Navya Jain Nair,Vijayawada,Female,Single,iPhone 14,Unknown,iOS
+C0113,Trisha Sethi Singh,Vijayawada,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0114,Trisha Sethi Sharma,Agartala,Female,Married,OnePlus 11,Unknown,Android
+C0115,Trisha Sethi Rao,Jodhpur,Female,Married,Xiaomi 13,Unknown,Android
+C0116,Trisha Sethi Nair,Jodhpur,Female,Single,Google Pixel 7,Unknown,Android
+C0117,Anika Chauhan Singh,Imphal,Female,Married,Oppo Find X6,Unknown,Android
+C0118,Anika Chauhan Sharma,Delhi,Female,Single,Vivo X90,Unknown,Android
+C0119,Anika Chauhan Rao,Surat,Female,Married,iPhone SE,Unknown,iOS
+C0120,Anika Chauhan Nair,Hyderabad,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0121,Aarav Sharma Singh,Bhopal,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0122,Aarav Sharma Sharma,Nashik,Male,Single,iPhone 14,Unknown,iOS
+C0123,Aarav Sharma Rao,Ahmedabad,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0124,Aarav Sharma Nair,Bhubaneswar,Male,Single,OnePlus 11,Unknown,Android
+C0125,Vivaan Patel Singh,Shillong,Male,Single,Xiaomi 13,Unknown,Android
+C0126,Vivaan Patel Sharma,Ranchi,Male,Married,Google Pixel 7,Unknown,Android
+C0126,Vivaan Patel Sharma,Ranchi,Male,Married,Google Pixel 7,Unknown,Android
+C0127,Vivaan Patel Rao,Noida,Male,Married,Oppo Find X6,Unknown,Android
+C0128,Vivaan Patel Nair,Thiruvananthapuram,Male,Married,Vivo X90,Unknown,Android
+C0129,Aditya Verma Singh,Lucknow,Male,Married,iPhone SE,Unknown,iOS
+C0130,Aditya Verma Sharma,Pune,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0131,Aditya Verma Rao,Kolkata,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0132,Aditya Verma Nair,Itanagar,Male,Single,iPhone 14,Unknown,iOS
+C0133,Vihaan Singh Singh,Delhi,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0134,Vihaan Singh Sharma,Mangalore,Male,Married,OnePlus 11,Unknown,Android
+C0135,Vihaan Singh Rao,Ludhiana,Male,Married,Xiaomi 13,Unknown,Android
+C0136,Vihaan Singh Nair,Aizawl,Male,Single,Google Pixel 7,Unknown,Android
+C0137,Arjun Kapoor Singh,Dhanbad,Male,Single,Oppo Find X6,Unknown,Android
+C0138,Arjun Kapoor Sharma,Pune,Male,Married,Vivo X90,Unknown,Android
+C0139,Arjun Kapoor Rao,Agra,Male,Single,iPhone SE,Unknown,iOS
+C0140,Arjun Kapoor Nair,Faridabad,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0141,Sai Iyer Singh,Jabalpur,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0142,Sai Iyer Sharma,Bhubaneswar,Male,Married,iPhone 14,Unknown,iOS
+C0143,Sai Iyer Rao,Noida,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0144,Sai Iyer Nair,Bangalore,Male,Single,OnePlus 11,Unknown,Android
+C0145,Reyansh Mehta Singh,Bhubaneswar,Male,Single,Xiaomi 13,Unknown,Android
+C0146,Reyansh Mehta Sharma,Srinagar,Male,Single,Google Pixel 7,Unknown,Android
+C0147,Reyansh Mehta Rao,Hyderabad,Male,Single,Oppo Find X6,Unknown,Android
+C0148,Reyansh Mehta Nair,Hyderabad,Male,Single,Vivo X90,Unknown,Android
+C0149,Krishna Kumar Singh,Bhubaneswar,Male,Married,iPhone SE,Unknown,iOS
+C0150,Krishna Kumar Sharma,Vijayawada,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0151,Krishna Kumar Rao,Kohima,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0152,Krishna Kumar Nair,Nashik,Male,Married,iPhone 14,Unknown,iOS
+C0153,Ishaan Reddy Singh,Gwalior,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0154,Ishaan Reddy Sharma,Shillong,Male,Married,OnePlus 11,Unknown,Android
+C0155,Ishaan Reddy Rao,Jaipur,Male,Single,Xiaomi 13,Unknown,Android
+C0156,Ishaan Reddy Nair,Jabalpur,Male,Married,Google Pixel 7,Unknown,Android
+C0157,Shaurya Rao Singh,Nagpur,Male,Married,Oppo Find X6,Unknown,Android
+C0158,Shaurya Rao Sharma,Jabalpur,Male,Married,Vivo X90,Unknown,Android
+C0159,Shaurya Rao Rao,Jaipur,Male,Married,iPhone SE,Unknown,iOS
+C0160,Shaurya Rao Nair,Meerut,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0161,Ayaan Bhat Singh,Pune,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0162,Ayaan Bhat Sharma,Jaipur,Male,Married,iPhone 14,Unknown,iOS
+C0163,Ayaan Bhat Rao,Shimla,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0164,Ayaan Bhat Nair,Bangalore,Male,Married,OnePlus 11,Unknown,Android
+C0165,Arya Joshi Singh,Faridabad,Male,Single,Xiaomi 13,Unknown,Android
+C0166,Arya Joshi Sharma,Jaipur,Male,Married,Google Pixel 7,Unknown,Android
+C0167,Arya Joshi Rao,Meerut,Male,Single,Oppo Find X6,Unknown,Android
+C0168,Arya Joshi Nair,Raipur,Male,Single,Vivo X90,Unknown,Android
+C0169,Anaya Chopra Singh,Gangtok,Female,Single,iPhone SE,Unknown,iOS
+C0170,Anaya Chopra Sharma,Nashik,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0171,Anaya Chopra Rao,Lucknow,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0172,Anaya Chopra Nair,Jodhpur,Female,Single,iPhone 14,Unknown,iOS
+C0173,Diya Nair Singh,Mumbai,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0174,Diya Nair Sharma,Ahmedabad,Female,Single,OnePlus 11,Unknown,Android
+C0175,Diya Nair Rao,Chandigarh,Female,Married,Xiaomi 13,Unknown,Android
+C0176,Diya Nair Nair,Itanagar,Female,Married,Google Pixel 7,Unknown,Android
+C0177,Kiara Khanna Singh,Ghaziabad,Female,Single,Oppo Find X6,Unknown,Android
+C0178,Kiara Khanna Sharma,Hyderabad,Female,Single,Vivo X90,Unknown,Android
+C0179,Kiara Khanna Rao,Ludhiana,Female,Single,iPhone SE,Unknown,iOS
+C0180,Kiara Khanna Nair,Port Blair,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0181,Isha Sharma Singh,Faridabad,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0182,Isha Sharma Sharma,Haora,Female,Single,iPhone 14,Unknown,iOS
+C0183,Isha Sharma Rao,Haora,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0184,Isha Sharma Nair,Ghaziabad,Female,Married,OnePlus 11,Unknown,Android
+C0185,Aarohi Bansal Singh,Raipur,Female,Single,Xiaomi 13,Unknown,Android
+C0186,Aarohi Bansal Sharma,Haora,Female,Married,Google Pixel 7,Unknown,Android
+C0187,Aarohi Bansal Rao,Gwalior,Female,Married,Oppo Find X6,Unknown,Android
+C0188,Aarohi Bansal Nair,Raipur,Female,Single,Vivo X90,Unknown,Android
+C0189,Avni Kaur Singh,Patna,Female,Married,iPhone SE,Unknown,iOS
+C0190,Avni Kaur Sharma,Raipur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0191,Avni Kaur Rao,Lucknow,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0192,Avni Kaur Nair,Mumbai,Female,Married,iPhone 14,Unknown,iOS
+C0193,Mira Agrawal Singh,Chandrapur,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0194,Mira Agrawal Sharma,Ahmedabad,Female,Married,OnePlus 11,Unknown,Android
+C0195,Mira Agrawal Rao,Agra,Female,Single,Xiaomi 13,Unknown,Android
+C0196,Mira Agrawal Nair,Agartala,Female,Married,Google Pixel 7,Unknown,Android
+C0197,Saanvi Desai Singh,Gwalior,Female,Married,Oppo Find X6,Unknown,Android
+C0198,Saanvi Desai Sharma,Port Blair,Female,Married,Vivo X90,Unknown,Android
+C0199,Saanvi Desai Rao,Ahmedabad,Female,Married,iPhone SE,Unknown,iOS
+C0200,Saanvi Desai Nair,Ludhiana,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0201,Riya Malhotra Singh,Varanasi,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0202,Riya Malhotra Sharma,Ranchi,Female,Single,iPhone 14,Unknown,iOS
+C0203,Riya Malhotra Rao,Lucknow,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0204,Riya Malhotra Nair,Kota,Female,Married,OnePlus 11,Unknown,Android
+C0205,Priya Shetty Singh,Itanagar,Female,Married,Xiaomi 13,Unknown,Android
+C0206,Priya Shetty Sharma,Surat,Female,Married,Google Pixel 7,Unknown,Android
+C0207,Priya Shetty Rao,Vijayawada,Female,Single,Oppo Find X6,Unknown,Android
+C0208,Priya Shetty Nair,Varanasi,Female,Married,Vivo X90,Unknown,Android
+C0209,Meera Thakur Singh,Bhopal,Female,Single,iPhone SE,Unknown,iOS
+C0210,Meera Thakur Sharma,Indore,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0211,Meera Thakur Rao,Hyderabad,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0212,Meera Thakur Nair,Noida,Female,Married,iPhone 14,Unknown,iOS
+C0213,Naina Yadav Singh,Amritsar,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0214,Naina Yadav Sharma,Varanasi,Female,Single,OnePlus 11,Unknown,Android
+C0215,Naina Yadav Rao,Madurai,Female,Single,Xiaomi 13,Unknown,Android
+C0216,Naina Yadav Nair,Kolkata,Female,Married,Google Pixel 7,Unknown,Android
+C0217,Suhana Shah Singh,Jaipur,Female,Single,Oppo Find X6,Unknown,Android
+C0218,Suhana Shah Sharma,Jabalpur,Female,Married,Vivo X90,Unknown,Android
+C0219,Suhana Shah Rao,Nashik,Female,Single,iPhone SE,Unknown,iOS
+C0220,Suhana Shah Nair,Guwahati,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0221,Pari Saxena Singh,Chandrapur,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0222,Pari Saxena Sharma,Kota,Female,Married,iPhone 14,Unknown,iOS
+C0223,Pari Saxena Rao,Agartala,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0224,Pari Saxena Nair,Varanasi,Female,Married,OnePlus 11,Unknown,Android
+C0225,Aanya Singh Singh,Amritsar,Female,Married,Xiaomi 13,Unknown,Android
+C0226,Aanya Singh Sharma,Delhi,Female,Single,Google Pixel 7,Unknown,Android
+C0227,Aanya Singh Rao,Ludhiana,Female,Married,Oppo Find X6,Unknown,Android
+C0228,Aanya Singh Nair,Jodhpur,Female,Married,Vivo X90,Unknown,Android
+C0229,Navya Jain Singh,Port Blair,Female,Married,iPhone SE,Unknown,iOS
+C0230,Navya Jain Sharma,Kota,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0231,Navya Jain Rao,Madurai,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0232,Navya Jain Nair,Patna,Female,Single,iPhone 14,Unknown,iOS
+C0233,Trisha Sethi Singh,Dhanbad,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0234,Trisha Sethi Sharma,Chandrapur,Female,Married,OnePlus 11,Unknown,Android
+C0235,Trisha Sethi Rao,Nagpur,Female,Married,Xiaomi 13,Unknown,Android
+C0236,Trisha Sethi Nair,Allahabad,Female,Married,Google Pixel 7,Unknown,Android
+C0237,Anika Chauhan Singh,Hyderabad,Female,Single,Oppo Find X6,Unknown,Android
+C0238,Anika Chauhan Sharma,Kohima,Female,Married,Vivo X90,Unknown,Android
+C0238,Anika Chauhan Sharma,Kohima,Female,Married,Vivo X90,Unknown,Android
+C0239,Anika Chauhan Rao,Rajkot,Female,Married,iPhone SE,Unknown,iOS
+C0240,Anika Chauhan Nair,Jaipur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0241,Aarav Sharma Singh,Thiruvananthapuram,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0242,Aarav Sharma Sharma,Nagpur,Male,Married,iPhone 14,Unknown,iOS
+C0243,Aarav Sharma Rao,Bhubaneswar,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0244,Aarav Sharma Nair,Noida,Male,Married,OnePlus 11,Unknown,Android
+C0245,Vivaan Patel Singh,Nagpur,Male,Single,Xiaomi 13,Unknown,Android
+C0246,Vivaan Patel Sharma,Panaji,Male,Single,Google Pixel 7,Unknown,Android
+C0247,Vivaan Patel Rao,Meerut,Male,Single,Oppo Find X6,Unknown,Android
+C0248,Vivaan Patel Nair,Ludhiana,Male,Married,Vivo X90,Unknown,Android
+C0249,Aditya Verma Singh,Jabalpur,Male,Single,iPhone SE,Unknown,iOS
+C0250,Aditya Verma Sharma,Imphal,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0251,Aditya Verma Rao,Chandrapur,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0252,Aditya Verma Nair,Amritsar,Male,Single,iPhone 14,Unknown,iOS
+C0253,Vihaan Singh Singh,Itanagar,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0254,Vihaan Singh Sharma,Madurai,Male,Single,OnePlus 11,Unknown,Android
+C0255,Vihaan Singh Rao,Bhubaneswar,Male,Single,Xiaomi 13,Unknown,Android
+C0256,Vihaan Singh Nair,Ahmedabad,Male,Single,Google Pixel 7,Unknown,Android
+C0257,Arjun Kapoor Singh,Vijayawada,Male,Married,Oppo Find X6,Unknown,Android
+C0258,Arjun Kapoor Sharma,Guwahati,Male,Single,Vivo X90,Unknown,Android
+C0259,Arjun Kapoor Rao,Jaipur,Male,Single,iPhone SE,Unknown,iOS
+C0260,Arjun Kapoor Nair,Jaipur,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0261,Sai Iyer Singh,Indore,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0262,Sai Iyer Sharma,Nashik,Male,Married,iPhone 14,Unknown,iOS
+C0263,Sai Iyer Rao,Srinagar,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0264,Sai Iyer Nair,Surat,Male,Single,OnePlus 11,Unknown,Android
+C0265,Reyansh Mehta Singh,Mumbai,Male,Married,Xiaomi 13,Unknown,Android
+C0266,Reyansh Mehta Sharma,Chennai,Male,Married,Google Pixel 7,Unknown,Android
+C0267,Reyansh Mehta Rao,Udaipur,Male,Single,Oppo Find X6,Unknown,Android
+C0268,Reyansh Mehta Nair,Nagpur,Male,Single,Vivo X90,Unknown,Android
+C0269,Krishna Kumar Singh,Kolkata,Male,Married,iPhone SE,Unknown,iOS
+C0270,Krishna Kumar Sharma,Chennai,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0271,Krishna Kumar Rao,Raipur,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0272,Krishna Kumar Nair,Chandigarh,Male,Married,iPhone 14,Unknown,iOS
+C0273,Ishaan Reddy Singh,Kohima,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0274,Ishaan Reddy Sharma,Surat,Male,Married,OnePlus 11,Unknown,Android
+C0275,Ishaan Reddy Rao,Kohima,Male,Married,Xiaomi 13,Unknown,Android
+C0276,Ishaan Reddy Nair,Aurangabad,Male,Single,Google Pixel 7,Unknown,Android
+C0277,Shaurya Rao Singh,Ranchi,Male,Single,Oppo Find X6,Unknown,Android
+C0278,Shaurya Rao Sharma,Madurai,Male,Married,Vivo X90,Unknown,Android
+C0279,Shaurya Rao Rao,Gwalior,Male,Single,iPhone SE,Unknown,iOS
+C0280,Shaurya Rao Nair,Chandigarh,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0281,Ayaan Bhat Singh,Pune,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0282,Ayaan Bhat Sharma,Kota,Male,Single,iPhone 14,Unknown,iOS
+C0283,Ayaan Bhat Rao,Ludhiana,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0284,Ayaan Bhat Nair,Agra,Male,Single,OnePlus 11,Unknown,Android
+C0285,Arya Joshi Singh,Haora,Male,Married,Xiaomi 13,Unknown,Android
+C0286,Arya Joshi Sharma,Jabalpur,Male,Single,Google Pixel 7,Unknown,Android
+C0287,Arya Joshi Rao,Srinagar,Male,Single,Oppo Find X6,Unknown,Android
+C0288,Arya Joshi Nair,Lucknow,Male,Single,Vivo X90,Unknown,Android
+C0289,Anaya Chopra Singh,Pondicherry,Female,Married,iPhone SE,Unknown,iOS
+C0290,Anaya Chopra Sharma,Udaipur,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0291,Anaya Chopra Rao,Surat,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0292,Anaya Chopra Nair,Mangalore,Female,Married,iPhone 14,Unknown,iOS
+C0293,Diya Nair Singh,Varanasi,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0294,Diya Nair Sharma,Dhanbad,Female,Single,OnePlus 11,Unknown,Android
+C0295,Diya Nair Rao,Mangalore,Female,Married,Xiaomi 13,Unknown,Android
+C0296,Diya Nair Nair,Vadodara,Female,Married,Google Pixel 7,Unknown,Android
+C0297,Kiara Khanna Singh,Chandigarh,Female,Married,Oppo Find X6,Unknown,Android
+C0298,Kiara Khanna Sharma,Mumbai,Female,Single,Vivo X90,Unknown,Android
+C0299,Kiara Khanna Rao,Port Blair,Female,Single,iPhone SE,Unknown,iOS
+C0300,Kiara Khanna Nair,Nagpur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0301,Isha Sharma Singh,Shimla,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0302,Isha Sharma Sharma,Ranchi,Female,Single,iPhone 14,Unknown,iOS
+C0303,Isha Sharma Rao,Lucknow,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0304,Isha Sharma Nair,Madurai,Female,Married,OnePlus 11,Unknown,Android
+C0305,Aarohi Bansal Singh,Kohima,Female,Married,Xiaomi 13,Unknown,Android
+C0306,Aarohi Bansal Sharma,Haora,Female,Single,Google Pixel 7,Unknown,Android
+C0307,Aarohi Bansal Rao,Thiruvananthapuram,Female,Single,Oppo Find X6,Unknown,Android
+C0308,Aarohi Bansal Nair,Agra,Female,Married,Vivo X90,Unknown,Android
+C0309,Avni Kaur Singh,Shillong,Female,Single,iPhone SE,Unknown,iOS
+C0310,Avni Kaur Sharma,Mumbai,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0311,Avni Kaur Rao,Bhubaneswar,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0312,Avni Kaur Nair,Aurangabad,Female,Married,iPhone 14,Unknown,iOS
+C0313,Mira Agrawal Singh,Lucknow,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0314,Mira Agrawal Sharma,Jaipur,Female,Single,OnePlus 11,Unknown,Android
+C0315,Mira Agrawal Rao,Gangtok,Female,Single,Xiaomi 13,Unknown,Android
+C0316,Mira Agrawal Nair,Thiruvananthapuram,Female,Single,Google Pixel 7,Unknown,Android
+C0317,Saanvi Desai Singh,Pondicherry,Female,Married,Oppo Find X6,Unknown,Android
+C0318,Saanvi Desai Sharma,Surat,Female,Single,Vivo X90,Unknown,Android
+C0319,Saanvi Desai Rao,Kolkata,Female,Single,iPhone SE,Unknown,iOS
+C0320,Saanvi Desai Nair,Gwalior,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0321,Riya Malhotra Singh,Lucknow,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0322,Riya Malhotra Sharma,Panaji,Female,Married,iPhone 14,Unknown,iOS
+C0323,Riya Malhotra Rao,Nagpur,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0324,Riya Malhotra Nair,Bangalore,Female,Married,OnePlus 11,Unknown,Android
+C0325,Priya Shetty Singh,Raipur,Female,Single,Xiaomi 13,Unknown,Android
+C0326,Priya Shetty Sharma,Udaipur,Female,Married,Google Pixel 7,Unknown,Android
+C0327,Priya Shetty Rao,Rajkot,Female,Single,Oppo Find X6,Unknown,Android
+C0328,Priya Shetty Nair,Chandigarh,Female,Married,Vivo X90,Unknown,Android
+C0329,Meera Thakur Singh,Ghaziabad,Female,Married,iPhone SE,Unknown,iOS
+C0330,Meera Thakur Sharma,Guwahati,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0331,Meera Thakur Rao,Ahmedabad,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0332,Meera Thakur Nair,Kolkata,Female,Single,iPhone 14,Unknown,iOS
+C0333,Naina Yadav Singh,Allahabad,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0334,Naina Yadav Sharma,Jabalpur,Female,Married,OnePlus 11,Unknown,Android
+C0335,Naina Yadav Rao,Ghaziabad,Female,Married,Xiaomi 13,Unknown,Android
+C0336,Naina Yadav Nair,Kota,Female,Single,Google Pixel 7,Unknown,Android
+C0337,Suhana Shah Singh,Meerut,Female,Married,Oppo Find X6,Unknown,Android
+C0338,Suhana Shah Sharma,Kota,Female,Single,Vivo X90,Unknown,Android
+C0339,Suhana Shah Rao,Pune,Female,Married,iPhone SE,Unknown,iOS
+C0340,Suhana Shah Nair,Meerut,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0341,Pari Saxena Singh,Chennai,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0342,Pari Saxena Sharma,Agra,Female,Single,iPhone 14,Unknown,iOS
+C0343,Pari Saxena Rao,Madurai,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0344,Pari Saxena Nair,Lucknow,Female,Married,OnePlus 11,Unknown,Android
+C0345,Aanya Singh Singh,Guwahati,Female,Married,Xiaomi 13,Unknown,Android
+C0346,Aanya Singh Sharma,Chennai,Female,Married,Google Pixel 7,Unknown,Android
+C0347,Aanya Singh Rao,Chennai,Female,Married,Oppo Find X6,Unknown,Android
+C0348,Aanya Singh Nair,Haora,Female,Married,Vivo X90,Unknown,Android
+C0349,Navya Jain Singh,Nagpur,Female,Single,iPhone SE,Unknown,iOS
+C0350,Navya Jain Sharma,Panaji,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0351,Navya Jain Rao,Ahmedabad,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0352,Navya Jain Nair,Mumbai,Female,Married,iPhone 14,Unknown,iOS
+C0353,Trisha Sethi Singh,Jabalpur,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0354,Trisha Sethi Sharma,Haora,Female,Married,OnePlus 11,Unknown,Android
+C0355,Trisha Sethi Rao,Jodhpur,Female,Single,Xiaomi 13,Unknown,Android
+C0356,Trisha Sethi Nair,Port Blair,Female,Married,Google Pixel 7,Unknown,Android
+C0357,Anika Chauhan Singh,Surat,Female,Single,Oppo Find X6,Unknown,Android
+C0358,Anika Chauhan Sharma,Gangtok,Female,Married,Vivo X90,Unknown,Android
+C0359,Anika Chauhan Rao,Raipur,Female,Married,iPhone SE,Unknown,iOS
+C0360,Anika Chauhan Nair,Ludhiana,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0361,Aarav Sharma Singh,Bhubaneswar,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0362,Aarav Sharma Sharma,Aurangabad,Male,Single,iPhone 14,Unknown,iOS
+C0363,Aarav Sharma Rao,Noida,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0364,Aarav Sharma Nair,Varanasi,Male,Married,OnePlus 11,Unknown,Android
+C0365,Vivaan Patel Singh,Aurangabad,Male,Single,Xiaomi 13,Unknown,Android
+C0366,Vivaan Patel Sharma,Faridabad,Male,Married,Google Pixel 7,Unknown,Android
+C0367,Vivaan Patel Rao,Mangalore,Male,Single,Oppo Find X6,Unknown,Android
+C0368,Vivaan Patel Nair,Gangtok,Male,Married,Vivo X90,Unknown,Android
+C0369,Aditya Verma Singh,Dhanbad,Male,Single,iPhone SE,Unknown,iOS
+C0370,Aditya Verma Sharma,Aurangabad,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0371,Aditya Verma Rao,Patna,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0372,Aditya Verma Nair,Madurai,Male,Married,iPhone 14,Unknown,iOS
+C0373,Vihaan Singh Singh,Panaji,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0374,Vihaan Singh Sharma,Imphal,Male,Married,OnePlus 11,Unknown,Android
+C0375,Vihaan Singh Rao,Ghaziabad,Male,Single,Xiaomi 13,Unknown,Android
+C0376,Vihaan Singh Nair,Allahabad,Male,Single,Google Pixel 7,Unknown,Android
+C0377,Arjun Kapoor Singh,Gangtok,Male,Single,Oppo Find X6,Unknown,Android
+C0378,Arjun Kapoor Sharma,Kolkata,Male,Married,Vivo X90,Unknown,Android
+C0379,Arjun Kapoor Rao,Bhubaneswar,Male,Single,iPhone SE,Unknown,iOS
+C0380,Arjun Kapoor Nair,Vijayawada,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0381,Sai Iyer Singh,Ghaziabad,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0382,Sai Iyer Sharma,Raipur,Male,Married,iPhone 14,Unknown,iOS
+C0383,Sai Iyer Rao,Delhi,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0384,Sai Iyer Nair,Meerut,Male,Married,OnePlus 11,Unknown,Android
+C0385,Reyansh Mehta Singh,Agra,Male,Married,Xiaomi 13,Unknown,Android
+C0386,Reyansh Mehta Sharma,Hyderabad,Male,Married,Google Pixel 7,Unknown,Android
+C0387,Reyansh Mehta Rao,Nagpur,Male,Married,Oppo Find X6,Unknown,Android
+C0388,Reyansh Mehta Nair,Kolkata,Male,Single,Vivo X90,Unknown,Android
+C0389,Krishna Kumar Singh,Ranchi,Male,Single,iPhone SE,Unknown,iOS
+C0390,Krishna Kumar Sharma,Madurai,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0391,Krishna Kumar Rao,Nagpur,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0392,Krishna Kumar Nair,Udaipur,Male,Single,iPhone 14,Unknown,iOS
+C0393,Ishaan Reddy Singh,Raipur,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0394,Ishaan Reddy Sharma,Meerut,Male,Married,OnePlus 11,Unknown,Android
+C0395,Ishaan Reddy Rao,Agra,Male,Married,Xiaomi 13,Unknown,Android
+C0396,Ishaan Reddy Nair,Faridabad,Male,Single,Google Pixel 7,Unknown,Android
+C0397,Shaurya Rao Singh,Madurai,Male,Married,Oppo Find X6,Unknown,Android
+C0398,Shaurya Rao Sharma,Jabalpur,Male,Married,Vivo X90,Unknown,Android
+C0399,Shaurya Rao Rao,Vijayawada,Male,Single,iPhone SE,Unknown,iOS
+C0400,Shaurya Rao Nair,Guwahati,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0401,Ayaan Bhat Singh,Vijayawada,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0402,Ayaan Bhat Sharma,Madurai,Male,Single,iPhone 14,Unknown,iOS
+C0403,Ayaan Bhat Rao,Patna,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0404,Ayaan Bhat Nair,Vadodara,Male,Married,OnePlus 11,Unknown,Android
+C0405,Arya Joshi Singh,Pune,Male,Single,Xiaomi 13,Unknown,Android
+C0406,Arya Joshi Sharma,Varanasi,Male,Single,Google Pixel 7,Unknown,Android
+C0407,Arya Joshi Rao,Faridabad,Male,Single,Oppo Find X6,Unknown,Android
+C0408,Arya Joshi Nair,Rajkot,Male,Married,Vivo X90,Unknown,Android
+C0409,Anaya Chopra Singh,Srinagar,Female,Married,iPhone SE,Unknown,iOS
+C0410,Anaya Chopra Sharma,Rajkot,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0411,Anaya Chopra Rao,Guwahati,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0412,Anaya Chopra Nair,Madurai,Female,Married,iPhone 14,Unknown,iOS
+C0413,Diya Nair Singh,Jodhpur,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0414,Diya Nair Sharma,Kota,Female,Married,OnePlus 11,Unknown,Android
+C0415,Diya Nair Rao,Coimbatore,Female,Single,Xiaomi 13,Unknown,Android
+C0416,Diya Nair Nair,Varanasi,Female,Married,Google Pixel 7,Unknown,Android
+C0417,Kiara Khanna Singh,Coimbatore,Female,Single,Oppo Find X6,Unknown,Android
+C0418,Kiara Khanna Sharma,Udaipur,Female,Single,Vivo X90,Unknown,Android
+C0419,Kiara Khanna Rao,Varanasi,Female,Single,iPhone SE,Unknown,iOS
+C0420,Kiara Khanna Nair,Bhopal,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0421,Isha Sharma Singh,Hyderabad,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0422,Isha Sharma Sharma,Chandrapur,Female,Single,iPhone 14,Unknown,iOS
+C0423,Isha Sharma Rao,Itanagar,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0424,Isha Sharma Nair,Jodhpur,Female,Married,OnePlus 11,Unknown,Android
+C0425,Aarohi Bansal Singh,Noida,Female,Married,Xiaomi 13,Unknown,Android
+C0426,Aarohi Bansal Sharma,Bhopal,Female,Married,Google Pixel 7,Unknown,Android
+C0427,Aarohi Bansal Rao,Bhubaneswar,Female,Married,Oppo Find X6,Unknown,Android
+C0428,Aarohi Bansal Nair,Panaji,Female,Single,Vivo X90,Unknown,Android
+C0429,Avni Kaur Singh,Aurangabad,Female,Married,iPhone SE,Unknown,iOS
+C0430,Avni Kaur Sharma,Chandigarh,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0431,Avni Kaur Rao,Patna,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0432,Avni Kaur Nair,Indore,Female,Married,iPhone 14,Unknown,iOS
+C0433,Mira Agrawal Singh,Coimbatore,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0434,Mira Agrawal Sharma,Lucknow,Female,Married,OnePlus 11,Unknown,Android
+C0435,Mira Agrawal Rao,Faridabad,Female,Single,Xiaomi 13,Unknown,Android
+C0436,Mira Agrawal Nair,Mangalore,Female,Married,Google Pixel 7,Unknown,Android
+C0437,Saanvi Desai Singh,Shillong,Female,Married,Oppo Find X6,Unknown,Android
+C0438,Saanvi Desai Sharma,Surat,Female,Single,Vivo X90,Unknown,Android
+C0439,Saanvi Desai Rao,Jaipur,Female,Married,iPhone SE,Unknown,iOS
+C0440,Saanvi Desai Nair,Patna,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0441,Riya Malhotra Singh,Meerut,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0442,Riya Malhotra Sharma,Ludhiana,Female,Single,iPhone 14,Unknown,iOS
+C0443,Riya Malhotra Rao,Madurai,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0444,Riya Malhotra Nair,Udaipur,Female,Married,OnePlus 11,Unknown,Android
+C0445,Priya Shetty Singh,Gwalior,Female,Single,Xiaomi 13,Unknown,Android
+C0446,Priya Shetty Sharma,Faridabad,Female,Married,Google Pixel 7,Unknown,Android
+C0447,Priya Shetty Rao,Nagpur,Female,Single,Oppo Find X6,Unknown,Android
+C0448,Priya Shetty Nair,Udaipur,Female,Married,Vivo X90,Unknown,Android
+C0449,Meera Thakur Singh,Imphal,Female,Single,iPhone SE,Unknown,iOS
+C0450,Meera Thakur Sharma,Udaipur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0451,Meera Thakur Rao,Gwalior,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0452,Meera Thakur Nair,Amritsar,Female,Single,iPhone 14,Unknown,iOS
+C0453,Naina Yadav Singh,Indore,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0453,Naina Yadav Singh,Indore,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0454,Naina Yadav Sharma,Bhubaneswar,Female,Married,OnePlus 11,Unknown,Android
+C0455,Naina Yadav Rao,Indore,Female,Married,Xiaomi 13,Unknown,Android
+C0456,Naina Yadav Nair,Jodhpur,Female,Married,Google Pixel 7,Unknown,Android
+C0457,Suhana Shah Singh,Mangalore,Female,Married,Oppo Find X6,Unknown,Android
+C0454,Naina Yadav Sharma,Bhubaneswar,Female,Married,OnePlus 11,Unknown,Android
+C0457,Suhana Shah Singh,Mangalore,Female,Married,Oppo Find X6,Unknown,Android
+C0458,Suhana Shah Sharma,Bhopal,Female,Single,Vivo X90,Unknown,Android
+C0459,Suhana Shah Rao,Pune,Female,Single,iPhone SE,Unknown,iOS
+C0460,Suhana Shah Nair,Faridabad,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0461,Pari Saxena Singh,Agra,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0462,Pari Saxena Sharma,Kota,Female,Married,iPhone 14,Unknown,iOS
+C0463,Pari Saxena Rao,Agra,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0464,Pari Saxena Nair,Guwahati,Female,Single,OnePlus 11,Unknown,Android
+C0465,Aanya Singh Singh,Varanasi,Female,Married,Xiaomi 13,Unknown,Android
+C0466,Aanya Singh Sharma,Imphal,Female,Married,Google Pixel 7,Unknown,Android
+C0467,Aanya Singh Rao,Meerut,Female,Single,Oppo Find X6,Unknown,Android
+C0468,Aanya Singh Nair,Nashik,Female,Married,Vivo X90,Unknown,Android
+C0469,Navya Jain Singh,Pune,Female,Single,iPhone SE,Unknown,iOS
+C0470,Navya Jain Sharma,Jaipur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0471,Navya Jain Rao,Guwahati,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0472,Navya Jain Nair,Imphal,Female,Single,iPhone 14,Unknown,iOS
+C0473,Trisha Sethi Singh,Ludhiana,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0474,Trisha Sethi Sharma,Udaipur,Female,Married,OnePlus 11,Unknown,Android
+C0475,Trisha Sethi Rao,Agra,Female,Single,Xiaomi 13,Unknown,Android
+C0476,Trisha Sethi Nair,Imphal,Female,Married,Google Pixel 7,Unknown,Android
+C0477,Anika Chauhan Singh,Raipur,Female,Single,Oppo Find X6,Unknown,Android
+C0478,Anika Chauhan Sharma,Rajkot,Female,Single,Vivo X90,Unknown,Android
+C0479,Anika Chauhan Rao,Aurangabad,Female,Single,iPhone SE,Unknown,iOS
+C0480,Anika Chauhan Nair,Meerut,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0481,Aarav Sharma Singh,Bhopal,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0482,Aarav Sharma Sharma,Surat,Male,Married,iPhone 14,Unknown,iOS
+C0483,Aarav Sharma Rao,Haora,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0484,Aarav Sharma Nair,Coimbatore,Male,Single,OnePlus 11,Unknown,Android
+C0485,Vivaan Patel Singh,Nashik,Male,Single,Xiaomi 13,Unknown,Android
+C0486,Vivaan Patel Sharma,Panaji,Male,Married,Google Pixel 7,Unknown,Android
+C0487,Vivaan Patel Rao,Vadodara,Male,Single,Oppo Find X6,Unknown,Android
+C0488,Vivaan Patel Nair,Pune,Male,Single,Vivo X90,Unknown,Android
+C0489,Aditya Verma Singh,Ludhiana,Male,Married,iPhone SE,Unknown,iOS
+C0490,Aditya Verma Sharma,Hyderabad,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0491,Aditya Verma Rao,Delhi,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0492,Aditya Verma Nair,Jodhpur,Male,Married,iPhone 14,Unknown,iOS
+C0493,Vihaan Singh Singh,Ranchi,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0494,Vihaan Singh Sharma,Gangtok,Male,Single,OnePlus 11,Unknown,Android
+C0495,Vihaan Singh Rao,Jaipur,Male,Married,Xiaomi 13,Unknown,Android
+C0496,Vihaan Singh Nair,Coimbatore,Male,Single,Google Pixel 7,Unknown,Android
+C0497,Arjun Kapoor Singh,Shimla,Male,Married,Oppo Find X6,Unknown,Android
+C0498,Arjun Kapoor Sharma,Kohima,Male,Single,Vivo X90,Unknown,Android
+C0499,Arjun Kapoor Rao,Port Blair,Male,Single,iPhone SE,Unknown,iOS
+C0500,Arjun Kapoor Nair,Gwalior,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0501,Sai Iyer Singh,Aurangabad,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0502,Sai Iyer Sharma,Ahmedabad,Male,Single,iPhone 14,Unknown,iOS
+C0503,Sai Iyer Rao,Coimbatore,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0504,Sai Iyer Nair,Vadodara,Male,Married,OnePlus 11,Unknown,Android
+C0505,Reyansh Mehta Singh,Ludhiana,Male,Single,Xiaomi 13,Unknown,Android
+C0506,Reyansh Mehta Sharma,Kohima,Male,Single,Google Pixel 7,Unknown,Android
+C0507,Reyansh Mehta Rao,Itanagar,Male,Single,Oppo Find X6,Unknown,Android
+C0508,Reyansh Mehta Nair,Delhi,Male,Married,Vivo X90,Unknown,Android
+C0509,Krishna Kumar Singh,Raipur,Male,Married,iPhone SE,Unknown,iOS
+C0510,Krishna Kumar Sharma,Allahabad,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0511,Krishna Kumar Rao,Vadodara,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0512,Krishna Kumar Nair,Srinagar,Male,Single,iPhone 14,Unknown,iOS
+C0513,Ishaan Reddy Singh,Pune,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0514,Ishaan Reddy Sharma,Jabalpur,Male,Married,OnePlus 11,Unknown,Android
+C0515,Ishaan Reddy Rao,Nagpur,Male,Married,Xiaomi 13,Unknown,Android
+C0516,Ishaan Reddy Nair,Shimla,Male,Single,Google Pixel 7,Unknown,Android
+C0517,Shaurya Rao Singh,Panaji,Male,Single,Oppo Find X6,Unknown,Android
+C0518,Shaurya Rao Sharma,Coimbatore,Male,Single,Vivo X90,Unknown,Android
+C0519,Shaurya Rao Rao,Hyderabad,Male,Married,iPhone SE,Unknown,iOS
+C0520,Shaurya Rao Nair,Mumbai,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0521,Ayaan Bhat Singh,Varanasi,Male,Married,iPhone 15 Pro,Unknown,iOS
+C0522,Ayaan Bhat Sharma,Gangtok,Male,Married,iPhone 14,Unknown,iOS
+C0523,Ayaan Bhat Rao,Imphal,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0524,Ayaan Bhat Nair,Mumbai,Male,Married,OnePlus 11,Unknown,Android
+C0525,Arya Joshi Singh,Panaji,Male,Single,Xiaomi 13,Unknown,Android
+C0526,Arya Joshi Sharma,Udaipur,Male,Single,Google Pixel 7,Unknown,Android
+C0527,Arya Joshi Rao,Coimbatore,Male,Married,Oppo Find X6,Unknown,Android
+C0528,Arya Joshi Nair,Noida,Male,Single,Vivo X90,Unknown,Android
+C0529,Anaya Chopra Singh,Agra,Female,Married,iPhone SE,Unknown,iOS
+C0530,Anaya Chopra Sharma,Udaipur,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0531,Anaya Chopra Rao,Mumbai,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0532,Anaya Chopra Nair,Nashik,Female,Single,iPhone 14,Unknown,iOS
+C0533,Diya Nair Singh,Jodhpur,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0534,Diya Nair Sharma,Kota,Female,Single,OnePlus 11,Unknown,Android
+C0535,Diya Nair Rao,Chandigarh,Female,Single,Xiaomi 13,Unknown,Android
+C0536,Diya Nair Nair,Amritsar,Female,Married,Google Pixel 7,Unknown,Android
+C0537,Kiara Khanna Singh,Amritsar,Female,Single,Oppo Find X6,Unknown,Android
+C0538,Kiara Khanna Sharma,Chandigarh,Female,Married,Vivo X90,Unknown,Android
+C0539,Kiara Khanna Rao,Amritsar,Female,Married,iPhone SE,Unknown,iOS
+C0540,Kiara Khanna Nair,Jodhpur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0541,Isha Sharma Singh,Indore,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0542,Isha Sharma Sharma,Faridabad,Female,Married,iPhone 14,Unknown,iOS
+C0543,Isha Sharma Rao,Ghaziabad,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0544,Isha Sharma Nair,Chandrapur,Female,Married,OnePlus 11,Unknown,Android
+C0545,Aarohi Bansal Singh,Gangtok,Female,Single,Xiaomi 13,Unknown,Android
+C0546,Aarohi Bansal Sharma,Bhopal,Female,Single,Google Pixel 7,Unknown,Android
+C0547,Aarohi Bansal Rao,Shillong,Female,Single,Oppo Find X6,Unknown,Android
+C0548,Aarohi Bansal Nair,Guwahati,Female,Married,Vivo X90,Unknown,Android
+C0549,Avni Kaur Singh,Surat,Female,Single,iPhone SE,Unknown,iOS
+C0550,Avni Kaur Sharma,Rajkot,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0551,Avni Kaur Rao,Noida,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0552,Avni Kaur Nair,Surat,Female,Married,iPhone 14,Unknown,iOS
+C0553,Mira Agrawal Singh,Nagpur,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0554,Mira Agrawal Sharma,Chandrapur,Female,Married,OnePlus 11,Unknown,Android
+C0555,Mira Agrawal Rao,Jaipur,Female,Married,Xiaomi 13,Unknown,Android
+C0556,Mira Agrawal Nair,Jodhpur,Female,Married,Google Pixel 7,Unknown,Android
+C0557,Saanvi Desai Singh,Chandigarh,Female,Married,Oppo Find X6,Unknown,Android
+C0558,Saanvi Desai Sharma,Jaipur,Female,Married,Vivo X90,Unknown,Android
+C0559,Saanvi Desai Rao,Port Blair,Female,Single,iPhone SE,Unknown,iOS
+C0560,Saanvi Desai Nair,Bhubaneswar,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0561,Riya Malhotra Singh,Port Blair,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0562,Riya Malhotra Sharma,Pune,Female,Single,iPhone 14,Unknown,iOS
+C0563,Riya Malhotra Rao,Chandigarh,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0564,Riya Malhotra Nair,Indore,Female,Married,OnePlus 11,Unknown,Android
+C0565,Priya Shetty Singh,Madurai,Female,Single,Xiaomi 13,Unknown,Android
+C0566,Priya Shetty Sharma,Chennai,Female,Single,Google Pixel 7,Unknown,Android
+C0567,Priya Shetty Rao,Panaji,Female,Single,Oppo Find X6,Unknown,Android
+C0568,Priya Shetty Nair,Nashik,Female,Married,Vivo X90,Unknown,Android
+C0569,Meera Thakur Singh,Ludhiana,Female,Married,iPhone SE,Unknown,iOS
+C0570,Meera Thakur Sharma,Srinagar,Female,Single,Samsung Galaxy A54,Unknown,Android
+C0571,Meera Thakur Rao,Ghaziabad,Female,Single,iPhone 15 Pro,Unknown,iOS
+C0572,Meera Thakur Nair,Amritsar,Female,Single,iPhone 14,Unknown,iOS
+C0573,Naina Yadav Singh,Ghaziabad,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0574,Naina Yadav Sharma,Gwalior,Female,Single,OnePlus 11,Unknown,Android
+C0575,Naina Yadav Rao,Agra,Female,Married,Xiaomi 13,Unknown,Android
+C0576,Naina Yadav Nair,Ranchi,Female,Married,Google Pixel 7,Unknown,Android
+C0577,Suhana Shah Singh,Lucknow,Female,Single,Oppo Find X6,Unknown,Android
+C0578,Suhana Shah Sharma,Haora,Female,Single,Vivo X90,Unknown,Android
+C0579,Suhana Shah Rao,Gwalior,Female,Married,iPhone SE,Unknown,iOS
+C0580,Suhana Shah Nair,Patna,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0581,Pari Saxena Singh,Chennai,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0582,Pari Saxena Sharma,Bhubaneswar,Female,Single,iPhone 14,Unknown,iOS
+C0583,Pari Saxena Rao,Allahabad,Female,Married,Samsung Galaxy S23,Unknown,Android
+C0584,Pari Saxena Nair,Jodhpur,Female,Married,OnePlus 11,Unknown,Android
+C0585,Aanya Singh Singh,Nagpur,Female,Married,Xiaomi 13,Unknown,Android
+C0586,Aanya Singh Sharma,Mangalore,Female,Single,Google Pixel 7,Unknown,Android
+C0587,Aanya Singh Rao,Ranchi,Female,Single,Oppo Find X6,Unknown,Android
+C0588,Aanya Singh Nair,Jodhpur,Female,Married,Vivo X90,Unknown,Android
+C0589,Navya Jain Singh,Jodhpur,Female,Married,iPhone SE,Unknown,iOS
+C0590,Navya Jain Sharma,Aurangabad,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0591,Navya Jain Rao,Indore,Female,Married,iPhone 15 Pro,Unknown,iOS
+C0592,Navya Jain Nair,Jaipur,Female,Single,iPhone 14,Unknown,iOS
+C0593,Trisha Sethi Singh,Bhopal,Female,Single,Samsung Galaxy S23,Unknown,Android
+C0594,Trisha Sethi Sharma,Pune,Female,Married,OnePlus 11,Unknown,Android
+C0595,Trisha Sethi Rao,Varanasi,Female,Married,Xiaomi 13,Unknown,Android
+C0596,Trisha Sethi Nair,Mangalore,Female,Single,Google Pixel 7,Unknown,Android
+C0597,Anika Chauhan Singh,Ranchi,Female,Married,Oppo Find X6,Unknown,Android
+C0598,Anika Chauhan Sharma,Imphal,Female,Single,Vivo X90,Unknown,Android
+C0599,Anika Chauhan Rao,Nashik,Female,Married,iPhone SE,Unknown,iOS
+C0600,Anika Chauhan Nair,Jaipur,Female,Married,Samsung Galaxy A54,Unknown,Android
+C0601,Aarav Sharma Singh,Agra,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0602,Aarav Sharma Sharma,Mumbai,Male,Married,iPhone 14,Unknown,iOS
+C0603,Aarav Sharma Rao,Jaipur,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0604,Aarav Sharma Nair,Udaipur,Male,Single,OnePlus 11,Unknown,Android
+C0605,Vivaan Patel Singh,Aizawl,Male,Married,Xiaomi 13,Unknown,Android
+C0606,Vivaan Patel Sharma,Nagpur,Male,Single,Google Pixel 7,Unknown,Android
+C0607,Vivaan Patel Rao,Chennai,Male,Married,Oppo Find X6,Unknown,Android
+C0608,Vivaan Patel Nair,Lucknow,Male,Married,Vivo X90,Unknown,Android
+C0609,Aditya Verma Singh,Amritsar,Male,Single,iPhone SE,Unknown,iOS
+C0610,Aditya Verma Sharma,Dhanbad,Male,Single,Samsung Galaxy A54,Unknown,Android
+C0611,Aditya Verma Rao,Bhopal,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0612,Aditya Verma Nair,Bangalore,Male,Single,iPhone 14,Unknown,iOS
+C0613,Vihaan Singh Singh,Aurangabad,Male,Single,Samsung Galaxy S23,Unknown,Android
+C0614,Vihaan Singh Sharma,Dhanbad,Male,Married,OnePlus 11,Unknown,Android
+C0615,Vihaan Singh Rao,Hyderabad,Male,Married,Xiaomi 13,Unknown,Android
+C0616,Vihaan Singh Nair,Bangalore,Male,Married,Google Pixel 7,Unknown,Android
+C0617,Arjun Kapoor Singh,Ranchi,Male,Single,Oppo Find X6,Unknown,Android
+C0618,Arjun Kapoor Sharma,Panaji,Male,Married,Vivo X90,Unknown,Android
+C0619,Arjun Kapoor Rao,Mangalore,Male,Married,iPhone SE,Unknown,iOS
+C0620,Arjun Kapoor Nair,Meerut,Male,Married,Samsung Galaxy A54,Unknown,Android
+C0621,Sai Iyer Singh,Kohima,Male,Single,iPhone 15 Pro,Unknown,iOS
+C0622,Sai Iyer Sharma,Agra,Male,Single,iPhone 14,Unknown,iOS
+C0623,Sai Iyer Rao,Vadodara,Male,Married,Samsung Galaxy S23,Unknown,Android
+C0622,Sai Iyer Sharma,Agra,Male,Single,iPhone 14,Unknown,iOS
+C0618,Arjun Kapoor Sharma,Panaji,Male,Married,Vivo X90,Unknown,Android

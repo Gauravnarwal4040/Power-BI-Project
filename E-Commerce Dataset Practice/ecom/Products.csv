@@ -1,0 +1,241 @@
+ProductID,ProductName,Category,Price,Weight
+P0001,iPhone 12 Pro,Electronics,146085,2.9
+P0002,iPhone 12 Pro,Electronics,130460,1.68
+P0003,iPhone 12 Pro,Electronics,132274,2.22
+P0004,iPhone 12 Pro,Electronics,136806,3.94
+P0005,iPhone 12 Pro,Electronics,146922,0.52
+P0006,iPhone 12 Pro,Electronics,121045,4.47
+P0007,Samsung Galaxy S20,Electronics,93807,1.53
+P0008,Samsung Galaxy S20,Electronics,80541,1.67
+P0009,Samsung Galaxy S20,Electronics,92231,4.57
+P0010,Samsung Galaxy S20,Electronics,85079,4.94
+P0011,Samsung Galaxy S20,Electronics,83095,4.06
+P0012,Samsung Galaxy S20,Electronics,86133,2.15
+P0013,OnePlus 8,Electronics,63438,1.36
+P0014,OnePlus 8,Electronics,59296,2.31
+P0015,OnePlus 8,Electronics,63877,4.94
+P0016,OnePlus 8,Electronics,69249,0.69
+P0017,OnePlus 8,Electronics,66205,2.53
+P0018,OnePlus 8,Electronics,63782,1.7
+P0019,Xiaomi 9 Pro,Electronics,70525,3.51
+P0020,Xiaomi 9 Pro,Electronics,72912,1.5
+P0021,Xiaomi 9 Pro,Electronics,75787,2.15
+P0022,Xiaomi 9 Pro,Electronics,61506,3.92
+P0023,Xiaomi 9 Pro,Electronics,72507,0.67
+P0024,Xiaomi 9 Pro,Electronics,64291,2.94
+P0025,Google Pixel 4,Electronics,72313,3.08
+P0026,Google Pixel 4,Electronics,81403,4.05
+P0027,Google Pixel 4,Electronics,81315,3.79
+P0028,Google Pixel 4,Electronics,88946,4.73
+P0029,Google Pixel 4,Electronics,75954,1.76
+P0030,Google Pixel 4,Electronics,82928,1.85
+P0031,Dell XPS 13,Electronics,103281,4.75
+P0032,Dell XPS 13,Electronics,121521,1.87
+P0033,Dell XPS 13,Electronics,120073,2.37
+P0034,Dell XPS 13,Electronics,103919,4.58
+P0035,Dell XPS 13,Electronics,120737,3.59
+P0036,Dell XPS 13,Electronics,123095,1.18
+P0037,MacBook Air ,Electronics,111276,1.34
+P0038,MacBook Air ,Electronics,118152,1.15
+P0039,MacBook Air ,Electronics,129731,2.01
+P0040,MacBook Air ,Electronics,127024,3.27
+P0041,MacBook Air ,Electronics,113742,2.01
+P0042,MacBook Air ,Electronics,117630,4.63
+P0043,HP Spectre x360,Electronics,98739,1.66
+P0044,HP Spectre x360,Electronics,99737,4.49
+P0045,HP Spectre x360,Electronics,98657,2.85
+P0046,HP Spectre x360,Electronics,109262,1.96
+P0047,HP Spectre x360,Electronics,101683,1.35
+P0048,HP Spectre x360,Electronics,118648,1.72
+P0049,Asus ZenBook 10,Electronics,86372,2
+P0050,Asus ZenBook 10,Electronics,84427,3.94
+P0051,Asus ZenBook 10,Electronics,87967,4.92
+P0052,Asus ZenBook 10,Electronics,83214,4.41
+P0053,Asus ZenBook 10,Electronics,92840,4.64
+P0054,Asus ZenBook 10,Electronics,84447,0.84
+P0055,Microsoft Surface Laptop 3,Electronics,110769,0.92
+P0056,Microsoft Surface Laptop 3,Electronics,103454,0.97
+P0057,Microsoft Surface Laptop 3,Electronics,109696,3.06
+P0058,Microsoft Surface Laptop 3,Electronics,100451,5
+P0059,Microsoft Surface Laptop 3,Electronics,114700,1.01
+P0060,Microsoft Surface Laptop 3,Electronics,103848,2.5
+P0061,LG Washing Machine,Home Appliances,27488,2.13
+P0062,LG Washing Machine,Home Appliances,38767,3.09
+P0063,LG Washing Machine,Home Appliances,36828,3.53
+P0064,LG Washing Machine,Home Appliances,28815,3.93
+P0065,LG Washing Machine,Home Appliances,23499,2.8
+P0066,LG Washing Machine,Home Appliances,24350,3.18
+P0067,Samsung Refrigerator,Home Appliances,49353,2.38
+P0068,Samsung Refrigerator,Home Appliances,33467,2.09
+P0069,Samsung Refrigerator,Home Appliances,37366,2.72
+P0070,Samsung Refrigerator,Home Appliances,30783,3.01
+P0071,Samsung Refrigerator,Home Appliances,34712,2.14
+P0072,Samsung Refrigerator,Home Appliances,46720,3.43
+P0073,Whirlpool Microwave,Home Appliances,11461,4.9
+P0074,Whirlpool Microwave,Home Appliances,15651,3.3
+P0075,Whirlpool Microwave,Home Appliances,19956,4.49
+P0076,Whirlpool Microwave,Home Appliances,18652,3.82
+P0077,Whirlpool Microwave,Home Appliances,12924,1.14
+P0078,Whirlpool Microwave,Home Appliances,10931,4.86
+P0079,Philips Air Fryer,Home Appliances,14335,4.24
+P0080,Philips Air Fryer,Home Appliances,13671,3.47
+P0081,Philips Air Fryer,Home Appliances,10074,1.59
+P0082,Philips Air Fryer,Home Appliances,7832,1.93
+P0083,Philips Air Fryer,Home Appliances,13860,4.72
+P0084,Philips Air Fryer,Home Appliances,13541,1.49
+P0085,Bosch Dishwasher,Home Appliances,34546,0.87
+P0086,Bosch Dishwasher,Home Appliances,41998,0.77
+P0087,Bosch Dishwasher,Home Appliances,31846,0.81
+P0088,Bosch Dishwasher,Home Appliances,34352,1.5
+P0089,Bosch Dishwasher,Home Appliances,39546,1.36
+P0090,Bosch Dishwasher,Home Appliances,44761,2.49
+P0091,Dyson Vacuum Cleaner,Home Appliances,35481,4.05
+P0092,Dyson Vacuum Cleaner,Home Appliances,46121,4.35
+P0093,Dyson Vacuum Cleaner,Home Appliances,45285,3.15
+P0094,Dyson Vacuum Cleaner,Home Appliances,45794,4.82
+P0095,Dyson Vacuum Cleaner,Home Appliances,43044,1.47
+P0096,Dyson Vacuum Cleaner,Home Appliances,32742,3.11
+P0097,Havells Ceiling Fan,Home Appliances,2987,2.65
+P0098,Havells Ceiling Fan,Home Appliances,4293,0.89
+P0099,Havells Ceiling Fan,Home Appliances,3324,2.58
+P0100,Havells Ceiling Fan,Home Appliances,2119,3.56
+P0101,Havells Ceiling Fan,Home Appliances,3811,1.06
+P0102,Havells Ceiling Fan,Home Appliances,3307,1.56
+P0103,Bajaj Electric Iron,Home Appliances,2698,4.25
+P0104,Bajaj Electric Iron,Home Appliances,1403,1.83
+P0105,Bajaj Electric Iron,Home Appliances,2611,1.66
+P0106,Bajaj Electric Iron,Home Appliances,2284,3.11
+P0107,Bajaj Electric Iron,Home Appliances,1654,0.84
+P0108,Bajaj Electric Iron,Home Appliances,2876,1.51
+P0109,Samsung Air Conditioner,Home Appliances,38353,3.22
+P0110,Samsung Air Conditioner,Home Appliances,39800,3.33
+P0111,Samsung Air Conditioner,Home Appliances,44846,2.98
+P0112,Samsung Air Conditioner,Home Appliances,49719,3.05
+P0113,Samsung Air Conditioner,Home Appliances,43580,1.75
+P0114,Samsung Air Conditioner,Home Appliances,48358,4.97
+P0115,LG Smart TV,Home Appliances,89823,3.27
+P0116,LG Smart TV,Home Appliances,80763,2.9
+P0117,LG Smart TV,Home Appliances,62580,4.44
+P0118,LG Smart TV,Home Appliances,72377,3.71
+P0119,LG Smart TV,Home Appliances,73314,1.26
+P0120,LG Smart TV,Home Appliances,83463,4.69
+P0121,Sony WH-1000XM5 Headphones,Accessories,25323,1.89
+P0122,Sony WH-1000XM5 Headphones,Accessories,25915,1.3
+P0123,Sony WH-1000XM5 Headphones,Accessories,29924,2.27
+P0124,Sony WH-1000XM5 Headphones,Accessories,28431,3.73
+P0125,Sony WH-1000XM5 Headphones,Accessories,25079,4.81
+P0126,Sony WH-1000XM5 Headphones,Accessories,27095,3.35
+P0127,Apple AirPods Pro,Accessories,21662,4.87
+P0128,Apple AirPods Pro,Accessories,23567,4.29
+P0129,Apple AirPods Pro,Accessories,23814,4.82
+P0130,Apple AirPods Pro,Accessories,23757,4.57
+P0131,Apple AirPods Pro,Accessories,23920,2.48
+P0132,Apple AirPods Pro,Accessories,24378,1.5
+P0133,Samsung Galaxy Buds,Accessories,12798,1.97
+P0134,Samsung Galaxy Buds,Accessories,10066,0.76
+P0135,Samsung Galaxy Buds,Accessories,13921,0.7
+P0136,Samsung Galaxy Buds,Accessories,10065,2.55
+P0137,Samsung Galaxy Buds,Accessories,13630,3.47
+P0138,Samsung Galaxy Buds,Accessories,10627,4.54
+P0139,JBL Portable Speaker,Accessories,8028,4.88
+P0140,JBL Portable Speaker,Accessories,9276,1.76
+P0141,JBL Portable Speaker,Accessories,6032,1.02
+P0142,JBL Portable Speaker,Accessories,8914,2.16
+P0143,JBL Portable Speaker,Accessories,5921,2.38
+P0144,JBL Portable Speaker,Accessories,9151,2.79
+P0145,Anker Power Bank,Accessories,3645,2.49
+P0146,Anker Power Bank,Accessories,4502,1.03
+P0147,Anker Power Bank,Accessories,4595,2.9
+P0148,Anker Power Bank,Accessories,2155,3.06
+P0149,Anker Power Bank,Accessories,2637,5
+P0150,Anker Power Bank,Accessories,2019,1
+P0151,Logitech Wireless Mouse,Accessories,2543,0.57
+P0152,Logitech Wireless Mouse,Accessories,2310,4.28
+P0153,Logitech Wireless Mouse,Accessories,2595,5
+P0154,Logitech Wireless Mouse,Accessories,2387,1.89
+P0155,Logitech Wireless Mouse,Accessories,2256,4.22
+P0156,Logitech Wireless Mouse,Accessories,1683,4.8
+P0157,Apple Magic Keyboard,Accessories,13597,0.77
+P0158,Apple Magic Keyboard,Accessories,12527,3.63
+P0159,Apple Magic Keyboard,Accessories,12115,3.73
+P0160,Apple Magic Keyboard,Accessories,11583,1.03
+P0161,Apple Magic Keyboard,Accessories,13643,1.05
+P0162,Apple Magic Keyboard,Accessories,11156,0.9
+P0163,Belkin Wireless Charger,Accessories,3581,3.42
+P0164,Belkin Wireless Charger,Accessories,2247,4.77
+P0165,Belkin Wireless Charger,Accessories,2814,1.88
+P0166,Belkin Wireless Charger,Accessories,2659,4.19
+P0167,Belkin Wireless Charger,Accessories,3282,1.69
+P0168,Belkin Wireless Charger,Accessories,3255,1.58
+P0169,Amazon Echo Dot,Accessories,4281,4.54
+P0170,Amazon Echo Dot,Accessories,3925,1.88
+P0171,Amazon Echo Dot,Accessories,4444,2.83
+P0172,Amazon Echo Dot,Accessories,4091,3.52
+P0173,Amazon Echo Dot,Accessories,4094,1.24
+P0174,Amazon Echo Dot,Accessories,3107,5
+P0175,Google Nest Hub,Accessories,11352,3.58
+P0176,Google Nest Hub,Accessories,8762,1.7
+P0177,Google Nest Hub,Accessories,8125,3.96
+P0178,Google Nest Hub,Accessories,10883,2.9
+P0179,Google Nest Hub,Accessories,8554,2.96
+P0180,Google Nest Hub,Accessories,11139,2.17
+P0181,Raymond Sofa Set,Home Furnishings,70149,1.44
+P0182,Raymond Sofa Set,Home Furnishings,56075,0.68
+P0183,Raymond Sofa Set,Home Furnishings,54713,3.61
+P0184,Raymond Sofa Set,Home Furnishings,84991,3.25
+P0185,Raymond Sofa Set,Home Furnishings,73414,4.75
+P0186,Raymond Sofa Set,Home Furnishings,94079,3.62
+P0187,D'Decor Curtains,Home Furnishings,5270,3.43
+P0188,D'Decor Curtains,Home Furnishings,6467,2.86
+P0189,D'Decor Curtains,Home Furnishings,8542,4.1
+P0190,D'Decor Curtains,Home Furnishings,6512,4.49
+P0191,D'Decor Curtains,Home Furnishings,5014,1.27
+P0192,D'Decor Curtains,Home Furnishings,5962,3.88
+P0193,Bombay Dyeing Bed Sheets,Home Furnishings,2517,2.13
+P0194,Bombay Dyeing Bed Sheets,Home Furnishings,2170,4.7
+P0195,Bombay Dyeing Bed Sheets,Home Furnishings,4210,1.6
+P0196,Bombay Dyeing Bed Sheets,Home Furnishings,2853,2.53
+P0197,Bombay Dyeing Bed Sheets,Home Furnishings,3835,0.86
+P0198,Bombay Dyeing Bed Sheets,Home Furnishings,3231,0.66
+P0199,Trident Towels,Home Furnishings,1309,1.37
+P0200,Trident Towels,Home Furnishings,2132,4.15
+P0201,Trident Towels,Home Furnishings,2163,1.4
+P0202,Trident Towels,Home Furnishings,1083,3.18
+P0203,Trident Towels,Home Furnishings,1280,1.08
+P0204,Trident Towels,Home Furnishings,2169,3.89
+P0205,Nilkamal Dining Table,Home Furnishings,26068,4.37
+P0206,Nilkamal Dining Table,Home Furnishings,24992,4.89
+P0207,Nilkamal Dining Table,Home Furnishings,17565,4.1
+P0208,Nilkamal Dining Table,Home Furnishings,28678,2.33
+P0209,Nilkamal Dining Table,Home Furnishings,22294,0.71
+P0210,Nilkamal Dining Table,Home Furnishings,25315,3.91
+P0211,Godrej Wardrobe,Home Furnishings,41763,1.86
+P0212,Godrej Wardrobe,Home Furnishings,27804,4.08
+P0213,Godrej Wardrobe,Home Furnishings,45257,1.69
+P0214,Godrej Wardrobe,Home Furnishings,42744,0.65
+P0215,Godrej Wardrobe,Home Furnishings,20828,4.06
+P0216,Godrej Wardrobe,Home Furnishings,29274,1.38
+P0217,Home Centre Cushion Set,Home Furnishings,2691,2.64
+P0218,Home Centre Cushion Set,Home Furnishings,1191,1.78
+P0219,Home Centre Cushion Set,Home Furnishings,1501,3.14
+P0220,Home Centre Cushion Set,Home Furnishings,2345,1.05
+P0221,Home Centre Cushion Set,Home Furnishings,1294,1.41
+P0222,Home Centre Cushion Set,Home Furnishings,1524,4.75
+P0223,Sleepwell Mattress,Home Furnishings,18784,1.61
+P0224,Sleepwell Mattress,Home Furnishings,10349,4.27
+P0225,Sleepwell Mattress,Home Furnishings,10166,4
+P0226,Sleepwell Mattress,Home Furnishings,13826,3.95
+P0227,Sleepwell Mattress,Home Furnishings,10472,3.72
+P0228,Notebook A5,Stationery,120,0.25
+P0229,Notebook A4,Stationery,200,0.4
+P0230,Ballpoint Pen Pack,Stationery,150,0.1
+P0231,Gel Pen Pack,Stationery,180,0.12
+P0232,Highlighter Set,Stationery,250,0.2
+P0233,Sticky Notes (Large),Stationery,100,0.15
+P0234,Sticky Notes (Small),Stationery,80,0.1
+P0235,Desk Organizer,Stationery,750,1
+P0236,Ruler Set,Stationery,90,0.2
+P0237,Eraser Pack,Stationery,50,0.05
+P0238,Sharpener,Stationery,40,0.04
+P0239,Geometry Box,Stationery,300,0.5
+P0240,Colored Pencils Set,Stationery,500,0.75

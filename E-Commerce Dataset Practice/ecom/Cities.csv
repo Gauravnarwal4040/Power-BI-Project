@@ -1,0 +1,59 @@
+RegionID,City,State
+R001,Mumbai,Maharashtra
+R002,Delhi,Delhi
+R003,Bangalore,Karnataka
+R004,Chennai,Tamil Nadu
+R005,Kolkata,West Bengal
+R006,Hyderabad,Telangana
+R007,Pune,Maharashtra
+R008,Ahmedabad,Gujarat
+R009,Jaipur,Rajasthan
+R010,Lucknow,Uttar Pradesh
+R011,Chandigarh,Chandigarh
+R012,Bhopal,Madhya Pradesh
+R013,Surat,Gujarat
+R014,Nagpur,Maharashtra
+R015,Indore,Madhya Pradesh
+R016,Bhubaneswar,Odisha
+R017,Thiruvananthapuram,Kerala
+R018,Patna,Bihar
+R019,Vadodara,Gujarat
+R020,Ludhiana,Punjab
+R021,Agra,Uttar Pradesh
+R022,Nashik,Maharashtra
+R023,Faridabad,Haryana
+R024,Meerut,Uttar Pradesh
+R025,Rajkot,Gujarat
+R026,Varanasi,Uttar Pradesh
+R027,Srinagar,Jammu and Kashmir
+R028,Aurangabad,Maharashtra
+R029,Dhanbad,Jharkhand
+R030,Amritsar,Punjab
+R031,Allahabad,Uttar Pradesh
+R032,Ranchi,Jharkhand
+R033,Haora,West Bengal
+R034,Coimbatore,Tamil Nadu
+R035,Gwalior,Madhya Pradesh
+R036,Vijayawada,Andhra Pradesh
+R037,Jodhpur,Rajasthan
+R038,Madurai,Tamil Nadu
+R039,Raipur,Chhattisgarh
+R040,Kota,Rajasthan
+R041,Guwahati,Assam
+R042,Chandrapur,Maharashtra
+R043,Mangalore,Karnataka
+R044,Jabalpur,Madhya Pradesh
+R045,Noida,Uttar Pradesh
+R046,Ghaziabad,Uttar Pradesh
+R047,Udaipur,Rajasthan
+R048,Shimla,Himachal Pradesh
+R049,Panaji,Goa
+R050,Pondicherry,Puducherry
+R051,Itanagar,Arunachal Pradesh
+R052,Shillong,Meghalaya
+R053,Imphal,Manipur
+R054,Aizawl,Mizoram
+R055,Kohima,Nagaland
+R056,Gangtok,Sikkim
+R057,Agartala,Tripura
+R058,Port Blair,Andaman and Nicobar Islands
