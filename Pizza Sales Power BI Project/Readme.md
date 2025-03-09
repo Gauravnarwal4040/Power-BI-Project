@@ -1,5 +1,5 @@
-**Dairy Product Sales Power BI Project
-**
+Dairy Product Sales Power BI Project
+
 📌 Project Overview
 
 This Power BI project analyzes sales data for a dairy product business. The dashboard provides insights into sales trends, customer behavior, and regional performance to help drive business decisions.
