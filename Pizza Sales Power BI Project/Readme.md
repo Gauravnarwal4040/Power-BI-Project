@@ -48,6 +48,7 @@ The project uses structured sales data containing:
 
 ![Screenshot 2025-03-10 004310](https://github.com/user-attachments/assets/63bba914-64fc-44da-96d5-baa7dc39e2bb)
 
+![image](https://github.com/user-attachments/assets/d153e361-1b2e-4109-97fe-4b55f1b1e235)
 
 ### 📢 Future Enhancements
 
