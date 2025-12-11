@@ -1,65 +1,57 @@
-# Dairy Product Sales Power BI Project
+🍕 Pizza Sales Power BI Project
+📌 Project Overview
 
-### 📌 Project Overview
+This Power BI project provides an in-depth analysis of pizza sales data. The dashboard delivers actionable insights into sales performance, customer behavior, product preferences, and order trends — helping businesses make informed, data-driven decisions.
 
-This Power BI project analyzes sales data for a dairy product business. The dashboard provides insights into sales trends, customer behavior, and regional performance to help drive business decisions.
+📊 Key Features
 
-### 📊 Key Features
+Sales Overview: Track total revenue, total orders, and average order value.
 
-- Sales Analysis: Track total revenue, units sold, and profit margins.
+Best-Selling Pizzas: Identify top pizzas by sales quantity and total revenue.
 
-- Customer Insights: Identify top customers and purchasing patterns.
+Category & Size Analysis: Compare performance across pizza categories (Classic, Veggie, Supreme, etc.) and sizes (S, M, L, XL).
 
-- Regional Performance: Compare sales performance across different regions.
+Daily & Monthly Trends: Understand peak sales days, order patterns, and monthly performance.
 
-- Product Performance: Analyze best-selling products and revenue contribution.
+Time-Based Insights: Evaluate hourly demand to optimize staffing and inventory.
 
-- Interactive Visuals: Filter data by date, product, and region for dynamic reporting.
+Interactive Filters: Slice data by pizza category, size, date, and order type.
 
-### 💁️ Dataset
+📁 Dataset Description
 
-The project uses structured sales data containing:
+The project uses cleaned and structured pizza sales data containing:
 
-- Sales Transactions: Date, customer, product, quantity, revenue.
+Order Details: Order ID, date, time, pizza type, size, quantity.
 
-- Customer Information: Customer ID, name, region.
+Product Information: Pizza name, category, price, ingredients.
 
-- Product Details: Product ID, name, category, price.
+Sales Metrics: Revenue, quantity sold, total orders.
 
-### 🔧 Tools & Technologies
+🔧 Tools & Technologies
 
-- Power BI: For creating interactive dashboards.
+Power BI Desktop – Dashboard creation & visual analytics
 
-- SQL / Excel: Data processing and transformation.
+Power Query – Data cleaning & transformation
 
-- DAX (Data Analysis Expressions): Used for advanced calculations and KPIs.
+DAX (Data Analysis Expressions) – KPIs, calculated columns & measures
 
-### 🚀 How to Use
+Excel / CSV – Dataset storage & preprocessing
 
-- Open the PBIX File: Load Dairy Product Project.pbix in Power BI Desktop.
+🚀 How to Use
 
-- Connect Data Sources: Ensure data connections are set up correctly.
+Download or clone the repository.
 
-- Explore Dashboards: Interact with the visuals to analyze different metrics.
+Open the PBIX file (Pizza Sales Dashboard.pbix) in Power BI Desktop.
 
-- Customize & Extend: Modify filters, add new insights, or integrate additional data sources.
+If required, update the data source path to match your local file location.
 
-### Dashboard
+Explore the dashboard using slicers and filters to analyze sales performance.
 
-![Screenshot 2025-03-10 004310](https://github.com/user-attachments/assets/63bba914-64fc-44da-96d5-baa7dc39e2bb)
+Customize visuals or add more insights as needed.
 
-![image](https://github.com/user-attachments/assets/d153e361-1b2e-4109-97fe-4b55f1b1e235)
+📊 Dashboard Preview
 
-### 📢 Future Enhancements
+<img width="952" height="745" alt="image" src="https://github.com/user-attachments/assets/c2ad4237-3c7a-4d03-9a0c-a7bc30a836dc" />
 
-- Adding predictive analytics for sales forecasting.
-
-- Enhancing customer segmentation using machine learning models.
-
-- Integrating external market data for competitive analysis.
-
-### 💡 Contribution
-
-Feel free to contribute by submitting pull requests, reporting issues, or suggesting improvements.
-
+<img width="952" height="748" alt="image" src="https://github.com/user-attachments/assets/10e4767d-1772-4974-9fb4-278953c75ecf" />
 
